@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 道符/剑形图标 -->
+    <path
+        android:fillColor="#FFE8C26A"
+        android:pathData="M54,22 L62,40 L80,42 L66,54 L70,72 L54,62 L38,72 L42,54 L28,42 L46,40 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,34 L57,48 L70,49 L60,57 L63,70 L54,63 L45,70 L48,57 L38,49 L51,48 Z"
+        android:fillAlpha="0.25" />
+</vector>

@@ -1,0 +1,4 @@
+// 顶层构建文件，配置各子项目共享的构建参数
+plugins {
+    id 'com.android.application' version '8.5.2' apply false
+}
